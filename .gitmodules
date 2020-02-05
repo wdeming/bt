@@ -1,0 +1,4 @@
+[submodule "maintenance_schedule_addon"]
+	path = maintenance_schedule_addon
+	url = git@github.com:wdeming/maintenance_schedule_addon.git
+	branch = master
